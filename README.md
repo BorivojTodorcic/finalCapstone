@@ -1,6 +1,5 @@
 
 # Task Manager
-
 ## A simple task management system that can be used for small businesses to help them manage and assign tasks to each member of the team.
 
 
@@ -15,16 +14,19 @@ This project is the final capstone project in my HyperionDev Software Developmen
 
 ## Contents
 - [Installation](#Installation)
-- [Usage / Examples](#Usage/Examples)
+- [Usage/Examples](#Usage/Examples)
 - [Acknowledgements](#Acknowledgements)
 - [Authors](#Authors)
 - [Contributing](#Contributing)
-## Installation
 
+
+## Installation
 - Download and install an IDE - [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/) etc
 - Download and install [Python](https://www.python.org/downloads/)
 - Clone the repository to a local directory - [GitHub Tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - Open the files in your chosen IDE and run the task_manager.py file
+
+
 ## Usage/Examples
 - When the script is run for the first time on your machine, you will need to use the following default login details in the terminal:
 
@@ -59,18 +61,18 @@ e - Exit
 
 See the screenshot below:
 ![Screenshot of task_manager.py](https://github.com/BorivojTodorcic/finalCapstone/assets/117315580/a50bb561-22f5-4a77-869e-7d762c8414ee)
-## Acknowledgements
 
+
+## Acknowledgements
  - [Hyperion Dev](https://www.hyperiondev.com/)
  - [How to write useful README on Github](https://www.youtube.com/watch?v=E6NO0rgFub4&ab_channel=AskCloudArchitech/)
 
-## Authors
 
+## Authors
 - [@BorivojTodorcic](https://github.com/BorivojTodorcic)
 
 
 ## Contributing
-
 Contributions are always welcome!
 
 If you find an issue or would like to suggest an improvement, please submit your feedback in the issues tab above or click the link [here](https://github.com/BorivojTodorcic/finalCapstone/issues).
