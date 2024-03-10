@@ -14,7 +14,7 @@ This project is the final capstone project in my HyperionDev Software Developmen
 
 ## Contents
 - [Installation](#Installation)
-- [Usage/Examples](#Usage/Examples)
+- [Usage](#Usage)
 - [Acknowledgements](#Acknowledgements)
 - [Authors](#Authors)
 - [Contributing](#Contributing)
@@ -27,7 +27,7 @@ This project is the final capstone project in my HyperionDev Software Developmen
 - Open the files in your chosen IDE and run the task_manager.py file
 
 
-## Usage/Examples
+## Usage
 - When the script is run for the first time on your machine, you will need to use the following default login details in the terminal:
 
 ```
