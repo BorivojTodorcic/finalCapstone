@@ -332,6 +332,7 @@ def gen_report(t_gen, all_users):
     completed = len(comp_tasks)
     uncompleted = total - completed
     overdue = len(overd_incomp)
+    # Error handling to avoid 'division by 0 error' if there are no tasks in tasks.txt
     percent_comp = 0 if total == 0 else (completed / (completed + uncompleted)) * 100
     percent_incomp = 0 if total == 0 else (uncompleted / (completed + uncompleted)) * 100
 
